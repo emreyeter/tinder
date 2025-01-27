@@ -1,6 +1,6 @@
 {
   "name": "@beytr/tinder",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Tinder swiper card for react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
