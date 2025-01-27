@@ -1,6 +1,6 @@
 {
   "name": "@beytr/tinder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Tinder swiper card for react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -52,14 +52,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emreyeter/beytr-tinder.git"
+    "url": "git+https://github.com/emreyeter/tinder.git"
   },
   "author": "Emre Yeter <emreyeter99@hotmail.com> (https://github.com/emreyeter)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emreyeter/beytr-tinder/issues"
+    "url": "https://github.com/emreyeter/tinder/issues"
   },
-  "homepage": "https://github.com/emreyeter/beytr-tinder#readme",
+  "homepage": "https://github.com/emreyeter/tinder#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
